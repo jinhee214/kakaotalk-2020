@@ -1,3 +1,4 @@
-# KakaoTalk 2020 creat
+# KakaoTalk 2020 create
 
-HTML, CSS go so much better
+HTML, CSS go so much better!
+Try Hard
